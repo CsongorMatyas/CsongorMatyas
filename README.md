@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CsongorMatyas
-- 👀 I’m interested in python programming and interesting problems, epecially if they are hard to solve.
+- 👀 I’m interested in python programming and interesting problems, especially if they are hard to solve.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on interesting projects, I have a long list of possible ones :D
 - 📫 Reach me at csongormatyas@gmail.com
